@@ -1,0 +1,18 @@
+{
+  "sound_spaces": {
+    "repository": "https://github.com/facebookresearch/sound-spaces.git",
+    "commit": "287184fd7067a0385558492716355c54875500ee"
+  },
+  "habitat_sim": {
+    "repository": "https://github.com/facebookresearch/habitat-sim.git",
+    "commit": "4f61e321477708fa606fbd8f42b4bef41d67c672"
+  },
+  "rlr_audio_propagation": {
+    "repository": "https://github.com/facebookresearch/rlr-audio-propagation.git",
+    "commit": "4fd446b4abb5c71fb7a232a083bbddd65f25fc6f"
+  },
+  "renderer_assets": {
+    "mp3d.scene_dataset_config.json": "b56050135d429839ca7066f335de51897d27e9741810bff8e13972fe539b0f5f",
+    "mp3d_material_config.json": "77cc3b16f45843b1138020837d4f78aeaf0abda2427f658291b632d84afbb1f4"
+  }
+}

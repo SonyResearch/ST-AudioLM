@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+smoke_report.json
+regression_report.json
+models/
+artifacts/
+release/
+*.safetensors
+*.pth
+*.pt
+*.npy
+*.log
